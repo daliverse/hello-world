@@ -1,4 +1,9 @@
 {
   "name": "daliverse/hello-world",
-  "type": "library"
+  
+  "autoload": {
+        "psr-0" : {
+            "Hello\\" : "src"
+        }
+    }
 }
