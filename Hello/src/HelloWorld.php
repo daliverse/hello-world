@@ -1,6 +1,12 @@
 <?php
 
 class HelloWorld {
+  
+    
+  function __construct() {
+  }
+
+  
   public function content() {
 
 
