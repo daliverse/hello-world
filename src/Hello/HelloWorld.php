@@ -28,7 +28,7 @@ class HelloWorld {
 
     return [
       '#type' => 'markup',
-      '#markup' => $this->t('Hello, World!'),
+      '#markup' => 'Hello, World!',
       #'#markup' => $this->t($connObj),
     ];
   }
