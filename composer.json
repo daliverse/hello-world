@@ -2,8 +2,8 @@
   "name": "daliverse/hello-world",
   
   "autoload": {
-        "psr-0" : {
-            "Hello\\" : "src"
+        "psr-4" : {
+            "Hello\\" : "src/Hello"
         }
     }
 }
