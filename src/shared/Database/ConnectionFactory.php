@@ -1,5 +1,7 @@
 <?php
 
+namespace Uie\Database;
+
 class ConnectionFactory {
 
 	/**
