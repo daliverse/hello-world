@@ -1,6 +1,5 @@
 <?php
 
-namespace Hello;
 
 class HelloWorld {
   
